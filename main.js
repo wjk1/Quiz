@@ -1,6 +1,5 @@
 function check (){
 
-alert("you have gotten 3 corect");
-
-
+document.getElementById("after_submit").style.visibility = "visible";
+alert('hello walker :)');
 }
